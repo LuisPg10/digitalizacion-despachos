@@ -13,4 +13,3 @@ npm i
 ```
 npm run dev
 ```
-Probando reglas
